@@ -1114,3 +1114,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.16-14.05.10:037][758]LogViewport: Scene viewport resized to 1541x608, mode Windowed.
 [2023.06.16-14.05.10:063][760]LogViewport: Scene viewport resized to 1541x618, mode Windowed.
 [2023.06.16-14.05.10:085][762]LogViewport: Scene viewport resized to 1541x622, mode Windowed.
+[2023.06.16-14.30.59:125][526]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Ушки (Realtek(R) Audio), InstanceID=1
+[2023.06.16-14.30.59:378][526]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=1820
+[2023.06.16-14.30.59:713][527]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{159d4d2c-0496-492b-91fd-28315b3bb8b6}, Name=Ушки (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=43.26
+[2023.06.16-14.30.59:713][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.16-14.30.59:714][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
