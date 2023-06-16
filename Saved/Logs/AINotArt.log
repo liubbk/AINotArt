@@ -3463,3 +3463,342 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.16-11.49.22:886][ 35]AssetCheck: New page: Asset Save: multiple assets
 [2023.06.16-11.49.22:886][ 35]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1180947130
 [2023.06.16-11.49.22:886][ 35]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1211873131
+[2023.06.16-11.51.07:799][441]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.06.16-11.51.07:799][441]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.06.16-11.51.40:081][496]Cmd: DELETE
+[2023.06.16-11.51.40:081][496]Cmd: ACTOR DELETE
+[2023.06.16-11.51.40:083][496]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.16-11.51.40:104][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.06.16-11.51.40:106][496]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2023.06.16-11.51.47:647][966]Cmd: DELETE
+[2023.06.16-11.51.47:647][966]Cmd: ACTOR DELETE
+[2023.06.16-11.51.47:650][966]LogEditorActor: Deleted Actor: BP_PuzzleShadow_C
+[2023.06.16-11.51.47:673][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.06.16-11.51.47:675][966]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2023.06.16-11.51.49:567][ 90]Cmd: DELETE
+[2023.06.16-11.51.49:567][ 90]Cmd: ACTOR DELETE
+[2023.06.16-11.51.49:569][ 90]LogEditorActor: Deleted Actor: SpotLight
+[2023.06.16-11.51.49:589][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.16-11.51.49:591][ 90]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.06.16-11.51.51:492][217]Cmd: DELETE
+[2023.06.16-11.51.51:492][217]Cmd: ACTOR DELETE
+[2023.06.16-11.51.51:494][217]LogEditorActor: Deleted Actor: SpotLight
+[2023.06.16-11.51.51:514][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.16-11.51.51:515][217]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.06.16-11.51.52:651][285]LogViewport: Scene viewport resized to 506x284, mode Windowed.
+[2023.06.16-11.51.53:275][310]Cmd: DELETE
+[2023.06.16-11.51.53:275][310]Cmd: ACTOR DELETE
+[2023.06.16-11.51.53:278][310]LogEditorActor: Deleted Actor: CameraActor
+[2023.06.16-11.51.53:319][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.06.16-11.51.53:321][310]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.06.16-11.51.54:869][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.16-11.51.54:876][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.16-11.51.54:993][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.06.16-11.51.55:006][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.16-11.51.55:020][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.16-11.51.55:023][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/7/WO/VP70AY4ZEJQUGZ5WV9RK0K
+[2023.06.16-11.51.55:024][418]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/VP70AY4ZEJQUGZ5WV9RK0K43A2DA634E352AD8EEBABDAEF5A44C8D.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/7/WO/VP70AY4ZEJQUGZ5WV9RK0K.uasset'
+[2023.06.16-11.51.55:026][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/A/T0/7W4W1KP02JC22MU7HOS28P
+[2023.06.16-11.51.55:026][418]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/7W4W1KP02JC22MU7HOS28P3B7BB3DC4265ABEE7D9BC7B7B85E4134.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/A/T0/7W4W1KP02JC22MU7HOS28P.uasset'
+[2023.06.16-11.51.55:038][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 29.6 sec)
+[2023.06.16-11.51.55:046][418]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.16-11.51.55:046][418]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1349132132
+[2023.06.16-11.51.55:046][418]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1211873131
+[2023.06.16-11.53.02:599][ 96]Cmd: DELETE
+[2023.06.16-11.53.02:600][ 96]Cmd: ACTOR DELETE
+[2023.06.16-11.53.02:602][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.16-11.53.02:621][ 96]LogWorldPartition: Actor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.SpotLight_UAID_A07817A4AC29058501_1324017490 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/C/XN/YF5XYRTSFU9HAESV9P78AI.PackageMetaData in its package
+[2023.06.16-11.53.02:621][ 96]LogWorldPartition: Actor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.SpotLight_UAID_A07817A4AC290B8501_1190616543 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/B/DE/DOE6UK2UXI8EB48Z5P2GQH.PackageMetaData in its package
+[2023.06.16-11.53.02:621][ 96]LogWorldPartition: Actor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.BP_PuzzleShadow_C_UAID_A07817A4AC29028501_2051714959 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/B/1K/3EFFGO414DVTXCQY6OPOCV.PackageMetaData in its package
+[2023.06.16-11.53.02:621][ 96]LogWorldPartition: Actor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.CameraActor_UAID_A07817A4AC290E8501_1149220071 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/2/2L/VLXTRDUW6RY2BAAN8V59VC.PackageMetaData in its package
+[2023.06.16-11.53.02:621][ 96]LogWorldPartition: Actor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1180947130 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/B/XF/NLYQQRFESPSNGBYV0ANN8U.PackageMetaData in its package
+[2023.06.16-11.53.02:622][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.06.16-11.53.02:624][ 96]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.06.16-11.53.02:645][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.06.16-11.53.28:244][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.16-11.53.28:251][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.16-11.53.28:311][964]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/8/G2/G21WONBXLP4D8SNJST2GHZ
+[2023.06.16-11.53.28:311][964]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/G21WONBXLP4D8SNJST2GHZC80E2FA74F89DE83B75D35804D858848.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/8/G2/G21WONBXLP4D8SNJST2GHZ.uasset'
+[2023.06.16-11.53.28:314][964]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/C/F5/XA5H8Y0G4PA7RCSQL59KHQ
+[2023.06.16-11.53.28:314][964]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/XA5H8Y0G4PA7RCSQL59KHQ8B93E716492AC43BE336F5AD397E7972.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/C/F5/XA5H8Y0G4PA7RCSQL59KHQ.uasset'
+[2023.06.16-11.53.28:317][964]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/1/QK/TIRYPLLVZ1CA5IKGBICKZU
+[2023.06.16-11.53.28:317][964]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/TIRYPLLVZ1CA5IKGBICKZU4EBD0A4541732AF1FBEA75B4B44B279B.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/1/QK/TIRYPLLVZ1CA5IKGBICKZU.uasset'
+[2023.06.16-11.53.28:336][964]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/B/KT/32Q7LNMO7PN4DJCWL4OWPH
+[2023.06.16-11.53.28:336][964]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/32Q7LNMO7PN4DJCWL4OWPHA2322AF54A597A0EDF11829CD9FBEEEF.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/B/KT/32Q7LNMO7PN4DJCWL4OWPH.uasset'
+[2023.06.16-11.53.28:338][964]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/7/QW/P59L2M8EBBXZVBRDN6O19T
+[2023.06.16-11.53.28:338][964]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/P59L2M8EBBXZVBRDN6O19T47302A784E9E72BD813DAEB2AF2F9DDE.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/7/QW/P59L2M8EBBXZVBRDN6O19T.uasset'
+[2023.06.16-11.53.28:341][964]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/2/M9/LYHGDG7EFYSAF6FITN0B5L
+[2023.06.16-11.53.28:341][964]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/LYHGDG7EFYSAF6FITN0B5LF10979E34D2B2264EEEA27AE68FD5AA3.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/2/M9/LYHGDG7EFYSAF6FITN0B5L.uasset'
+[2023.06.16-11.53.28:372][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 29.7 sec)
+[2023.06.16-11.53.28:377][964]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.16-11.53.28:377][964]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1411837135
+[2023.06.16-11.53.28:377][964]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1372735133
+[2023.06.16-11.53.28:377][964]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1436782137
+[2023.06.16-11.53.28:377][964]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1418714136
+[2023.06.16-11.53.28:377][964]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1450522139
+[2023.06.16-11.53.28:377][964]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1445824138
+[2023.06.16-11.55.05:449][600]LogEditorViewport: Clicking Background
+[2023.06.16-11.56.05:722][750]LogWorldPartition: Actor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1402944134 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/0/BK/TCDCCK399EHV0M0Y29VTLY.PackageMetaData in its package
+[2023.06.16-11.56.05:731][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.06.16-11.56.05:738][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.16-11.56.05:808][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/C/IX/6N6IVGK9GYZGFY4CCN5DTC
+[2023.06.16-11.56.05:808][750]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/6N6IVGK9GYZGFY4CCN5DTC432A4E7C4151DD4D541BAFB44AFF4147.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/C/IX/6N6IVGK9GYZGFY4CCN5DTC.uasset'
+[2023.06.16-11.56.05:811][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/7/QW/P59L2M8EBBXZVBRDN6O19T
+[2023.06.16-11.56.05:811][750]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/P59L2M8EBBXZVBRDN6O19TA7E67B964C484414E8C75C9768026C55.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/7/QW/P59L2M8EBBXZVBRDN6O19T.uasset'
+[2023.06.16-11.56.05:814][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/2/M9/LYHGDG7EFYSAF6FITN0B5L
+[2023.06.16-11.56.05:815][750]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/LYHGDG7EFYSAF6FITN0B5LD082D93742B695627E5CB98A6D001E8A.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/2/M9/LYHGDG7EFYSAF6FITN0B5L.uasset'
+[2023.06.16-11.56.05:818][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/0/KX/IIDD0PP89C8J1T4XNLXXW6
+[2023.06.16-11.56.05:818][750]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/IIDD0PP89C8J1T4XNLXXW65530DF4647D632684B658E818620B258.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/0/KX/IIDD0PP89C8J1T4XNLXXW6.uasset'
+[2023.06.16-11.56.05:821][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/2/XC/BKTUU9R3H4IW3E6NYCFJXA
+[2023.06.16-11.56.05:821][750]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/BKTUU9R3H4IW3E6NYCFJXAA988068F47000A65397DECAB4052752A.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/2/XC/BKTUU9R3H4IW3E6NYCFJXA.uasset'
+[2023.06.16-11.56.05:824][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/5/E0/M6EY6HHTRY0O74M3GY0VUW
+[2023.06.16-11.56.05:824][750]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/M6EY6HHTRY0O74M3GY0VUWB609FD3345159B1C1D2E44BFAEAE7EDB.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/5/E0/M6EY6HHTRY0O74M3GY0VUW.uasset'
+[2023.06.16-11.56.05:827][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/6/14/82CCGFFQZ2H3XLQUV3PL6C
+[2023.06.16-11.56.05:827][750]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/82CCGFFQZ2H3XLQUV3PL6C15B8D4E44C27CC43F6B664BDCCC23975.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/6/14/82CCGFFQZ2H3XLQUV3PL6C.uasset'
+[2023.06.16-11.56.05:830][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/D/8X/E4SBV92HT6SGBK9OK9GAXN
+[2023.06.16-11.56.05:830][750]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/E4SBV92HT6SGBK9OK9GAXN260DB2944D02053CD6579E91CFBC471E.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/D/8X/E4SBV92HT6SGBK9OK9GAXN.uasset'
+[2023.06.16-11.56.05:833][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/4/VW/XABRO3O33VXM2CWFQV6WSJ
+[2023.06.16-11.56.05:833][750]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/XABRO3O33VXM2CWFQV6WSJE72BC68F48A1DD27231D1D96B8467427.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/4/VW/XABRO3O33VXM2CWFQV6WSJ.uasset'
+[2023.06.16-11.56.05:865][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 29.8 sec)
+[2023.06.16-11.56.05:870][750]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.16-11.56.05:870][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1603092146
+[2023.06.16-11.56.05:870][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1596136145
+[2023.06.16-11.56.05:871][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1585341144
+[2023.06.16-11.56.05:871][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1562126143
+[2023.06.16-11.56.05:871][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1555232142
+[2023.06.16-11.56.05:871][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1544876141
+[2023.06.16-11.56.05:871][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1450522139
+[2023.06.16-11.56.05:871][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1511039140
+[2023.06.16-11.56.05:871][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1445824138
+[2023.06.16-11.56.05:886][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.06.16-11.56.44:690][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.06.16-11.56.44:696][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.16-11.56.44:767][205]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/C/IX/6N6IVGK9GYZGFY4CCN5DTC
+[2023.06.16-11.56.44:768][205]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/6N6IVGK9GYZGFY4CCN5DTC901516F1492B781491025493559CD248.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/C/IX/6N6IVGK9GYZGFY4CCN5DTC.uasset'
+[2023.06.16-11.56.44:770][205]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/4/VW/XABRO3O33VXM2CWFQV6WSJ
+[2023.06.16-11.56.44:771][205]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/XABRO3O33VXM2CWFQV6WSJBA2893104A7B10E4F79296BEA051B751.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/4/VW/XABRO3O33VXM2CWFQV6WSJ.uasset'
+[2023.06.16-11.56.44:773][205]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/gameroom20/7/NK/ROGJBEHIL9LJZ798D4S5UE
+[2023.06.16-11.56.44:773][205]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/ROGJBEHIL9LJZ798D4S5UE2A2981DD4110833936115F83750ED0A2.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/__ExternalActors__/ThirdPerson/Maps/gameroom20/7/NK/ROGJBEHIL9LJZ798D4S5UE.uasset'
+[2023.06.16-11.56.44:804][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 29.9 sec)
+[2023.06.16-11.56.44:812][205]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.16-11.56.44:812][205]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1603092146
+[2023.06.16-11.56.44:812][205]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1596136145
+[2023.06.16-11.56.44:812][205]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/gameroom20.gameroom20:PersistentLevel.StaticMeshActor_UAID_1C6F65927C32DE8C01_1638434147
+[2023.06.16-11.57.00:709][911]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 I:\vyshka\арт-практика\JapanEnvironment\GameMach1.fbx)
+[2023.06.16-11.57.00:721][911]LogFbx: Loading FBX Scene from I:\vyshka\арт-практика\JapanEnvironment\GameMach1.fbx
+[2023.06.16-11.57.00:732][911]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.16-11.57.02:007][911]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.16-11.57.02:207][911]LogFbx: Display: Triangulating static mesh Cube.043
+[2023.06.16-11.57.02:250][911]LogStaticMesh: Display: Building static mesh GameMach1...
+[2023.06.16-11.57.02:279][911]LogStaticMesh: Built static mesh [0.03s] /Game/environment/GameMach1.GameMach1
+[2023.06.16-11.57.02:309][911]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.16-11.57.03:941][911]LogMeshUtilities: Finished distance field build in 1.7s - 49x49x91 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 94% occupied, 341 triangles, GameMach1
+[2023.06.16-11.57.03:942][911]LogStaticMesh: Display: Building static mesh GameMach1...
+[2023.06.16-11.57.03:971][911]LogStaticMesh: Built static mesh [0.03s] /Game/environment/GameMach1.GameMach1
+[2023.06.16-11.57.06:055][975]LogSlate: Window 'Content Browser' being destroyed
+[2023.06.16-11.57.06:086][975]LogSlate: Window 'Content Browser' being destroyed
+[2023.06.16-11.57.06:223][982]LogMeshUtilities: Finished distance field build in 2.2s - 49x49x91 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 94% occupied, 341 triangles, GameMach1
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: ================================================
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Total job queries 395, among them cache hits 87 (22.03%)
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Tracking 253 distinct input hashes that result in 75 distinct outputs (29.64%)
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: RAM used: 1.59 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.13%
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Shaders Compiled: 81
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Jobs assigned 85, completed 81 (95.29%)
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Average time worker was idle: 329.81 s
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Time job spent in pending queue: average 1.45 s, longest 4.25 s
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Job execution time: average 1.61 s, max 3.39 s
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Job life time (pending + execution): average 3.10 s, max 5.68
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 36.39 s
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Jobs were issued in 85 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Average processing rate: 2.23 jobs/sec
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Total thread time: 113.78 s
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Total thread preprocess time: 6.21 s
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Percentage time preprocessing: 5.45%
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Effective parallelization: 3.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.06.16-11.57.06:712][  4]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 2.00 sec, max 2.64 sec, min 1.70 sec)
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 1.75 sec, max 2.19 sec, min 1.55 sec)
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 1.67 sec, max 2.30 sec, min 1.41 sec)
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 1.49 sec, max 1.52 sec, min 1.45 sec)
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 1.46 sec, max 1.47 sec, min 1.44 sec)
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.77% of total time (compiled    5 times, average 2.00 sec, max 2.64 sec, min 1.70 sec)
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.70% of total time (compiled    5 times, average 1.75 sec, max 2.19 sec, min 1.55 sec)
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.35% of total time (compiled    5 times, average 1.67 sec, max 2.30 sec, min 1.41 sec)
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.94% of total time (compiled    6 times, average 1.32 sec, max 1.82 sec, min 1.00 sec)
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.53% of total time (compiled    5 times, average 1.49 sec, max 1.52 sec, min 1.45 sec)
+[2023.06.16-11.57.06:713][  4]LogShaderCompilers: Display: ================================================
+[2023.06.16-11.57.06:882][ 12]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-11.57.06:915][ 12]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-11.57.18:798][664]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/environment/GameMach1.GameMach1
+[2023.06.16-11.57.18:905][664]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.16-11.57.18:954][664]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2023.06.16-11.57.19:749][664]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.06.16-11.57.36:383][146]LogSlate: Window 'GameMach1' being destroyed
+[2023.06.16-11.57.36:463][146]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-11.57.36:463][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-11.57.42:405][520]Cmd: DELETE
+[2023.06.16-11.57.42:405][520]Cmd: ACTOR DELETE
+[2023.06.16-11.57.42:409][520]LogEditorActor: Deleted Actor: PointLight
+[2023.06.16-11.57.42:431][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.06.16-11.57.42:433][520]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2023.06.16-11.57.43:948][616]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.16-11.57.43:955][616]LogContentBundle: [Container: gameroom20] Generating Streaming for 0 Content Bundles.
+[2023.06.16-11.57.43:957][616]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.16-11.57.43:957][616]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.16-11.57.43:957][616]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 44 us)
+[2023.06.16-11.57.43:957][616]LogWorldPartition: Display: GenerateStreaming took 801 us (total: 1 ms)
+[2023.06.16-11.57.43:958][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.16-11.57.43:958][616]PIE: New page: PIE session: gameroom20 (16 июн. 2023 г., 17:57:43)
+[2023.06.16-11.57.43:958][616]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_gameroom20
+[2023.06.16-11.57.43:970][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011839s)
+[2023.06.16-11.57.43:970][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/gameroom20.gameroom20 to /Game/ThirdPerson/Maps/UEDPIE_0_gameroom20.gameroom20 (0.011899s)
+[2023.06.16-11.57.43:970][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.16-11.57.43:971][616]LogAIModule: Creating AISystem for world gameroom20
+[2023.06.16-11.57.43:971][616]LogWorldPartition: ULevel::OnLevelLoaded(gameroom20)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.16-11.57.43:972][616]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.16-11.57.43:972][616]LogWorldPartition: UWorldPartition::Initialize(Asset=gameroom20, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.16-11.57.43:975][616]LogContentBundle: [Container: gameroom20] Creating new contrainer.
+[2023.06.16-11.57.43:975][616]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 2.84 sec)
+[2023.06.16-11.57.43:975][616]LogPlayLevel: PIE: World Init took: (0.004912s)
+[2023.06.16-11.57.43:988][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.06.16-11.57.43:989][616]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.06.16-11.57.43:989][616]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.16-11.57.43:989][616]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.16-11.57.43:989][616]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.16-11.57.43:989][616]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.16-11.57.43:989][616]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.16-11.57.43:989][616]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.16-11.57.43:989][616]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.16-11.57.43:989][616]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.16-11.57.43:990][616]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.16-11.57.43:990][616]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.16-11.57.43:990][616]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.16-11.57.43:993][616]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.16-11.57.44:076][616]LogAudioMixer: Display: Using Audio Hardware Device Динамики (USB Audio Device)
+[2023.06.16-11.57.44:077][616]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.16-11.57.44:077][616]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.16-11.57.44:077][616]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.16-11.57.44:078][616]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.06.16-11.57.44:078][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.06.16-11.57.44:080][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.06.16-11.57.44:080][616]LogInit: FAudioDevice initialized.
+[2023.06.16-11.57.44:080][616]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.06.16-11.57.44:080][616]LogAudio: Display: Audio Device (ID: 6) registered with world 'gameroom20'.
+[2023.06.16-11.57.44:084][616]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.16-11.57.44:092][616]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_gameroom20.gameroom20 up for play (max tick rate 0) at 2023.06.16-14.57.44
+[2023.06.16-11.57.44:093][616]LogWorld: Bringing up level for play took: 0.008561
+[2023.06.16-11.57.44:095][616]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.06.16-11.57.44:096][616]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=3647.520 Y=1123.618 Z=90.400
+[2023.06.16-11.57.44:098][616]PIE: Server logged in
+[2023.06.16-11.57.44:099][616]PIE: Play in editor total start time 0,144 seconds.
+[2023.06.16-11.57.57:866][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-11.57.57:866][369]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_gameroom20
+[2023.06.16-11.57.57:867][369]LogWorld: UWorld::CleanupWorld for gameroom20, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-11.57.57:867][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-11.57.57:867][369]LogContentBundle: [Container: gameroom20] Deleting container.
+[2023.06.16-11.57.57:872][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.16-11.57.57:877][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-11.57.57:890][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-11.57.57:891][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.06.16-11.57.57:893][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.06.16-11.57.57:900][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.16-11.57.57:933][370]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.06.16-11.58.06:529][935]Cmd: POLY SELECT ALL
+[2023.06.16-11.58.07:688][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.16-11.58.07:696][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.16-11.58.07:779][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.06.16-11.58.07:792][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.16-11.58.07:805][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.06.16-11.58.07:839][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/GameMach1" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/GameMach1.uasset" SILENT=true
+[2023.06.16-11.58.07:848][ 17]LogSavePackage: Moving output files for package: /Game/environment/GameMach1
+[2023.06.16-11.58.07:848][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/GameMach1FBB5C93340853F8CE70502B9298D6B93.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/GameMach1.uasset'
+[2023.06.16-11.58.09:879][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.58.12:452][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005082s (2.575442s overbudget)
+[2023.06.16-11.58.12:491][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/partition" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/partition.uasset" SILENT=true
+[2023.06.16-11.58.12:493][ 17]LogSavePackage: Moving output files for package: /Game/environment/partition
+[2023.06.16-11.58.12:493][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/partitionBD3775574C691ED35E9D0B90EFC68636.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/partition.uasset'
+[2023.06.16-11.58.14:523][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.58.17:401][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002077s (2.881329s overbudget)
+[2023.06.16-11.58.17:445][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/bulb" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/bulb.uasset" SILENT=true
+[2023.06.16-11.58.17:461][ 17]LogSavePackage: Moving output files for package: /Game/environment/bulb
+[2023.06.16-11.58.17:461][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/bulbB90ADC6A401C0E227D80F3BD56EAEE7A.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/bulb.uasset'
+[2023.06.16-11.58.19:493][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.58.21:917][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000114s (2.430095s overbudget)
+[2023.06.16-11.58.21:971][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/mach1details1" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/mach1details1.uasset" SILENT=true
+[2023.06.16-11.58.21:975][ 17]LogSavePackage: Moving output files for package: /Game/environment/mach1details1
+[2023.06.16-11.58.21:975][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/mach1details1BC7820ED442550653758F7931556EB2E.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/mach1details1.uasset'
+[2023.06.16-11.58.24:011][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.58.26:337][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004056s (2.330451s overbudget)
+[2023.06.16-11.58.26:384][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/mach1base" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/mach1base.uasset" SILENT=true
+[2023.06.16-11.58.26:387][ 17]LogSavePackage: Moving output files for package: /Game/environment/mach1base
+[2023.06.16-11.58.26:387][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/mach1base7D0A201F478E9CAD1E941E812BA0AD8B.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/mach1base.uasset'
+[2023.06.16-11.58.28:415][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.58.30:854][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003079s (2.439570s overbudget)
+[2023.06.16-11.58.30:901][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/mach1detais" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/mach1detais.uasset" SILENT=true
+[2023.06.16-11.58.30:904][ 17]LogSavePackage: Moving output files for package: /Game/environment/mach1detais
+[2023.06.16-11.58.30:904][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/mach1detais4263952549CA521AF52FCC9E9C2F8CD6.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/mach1detais.uasset'
+[2023.06.16-11.58.32:945][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.58.35:260][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005074s (2.319515s overbudget)
+[2023.06.16-11.58.35:307][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/mach1details2" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/mach1details2.uasset" SILENT=true
+[2023.06.16-11.58.35:309][ 17]LogSavePackage: Moving output files for package: /Game/environment/mach1details2
+[2023.06.16-11.58.35:309][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/mach1details28086B35A404B3B1FF80BFAA31699258B.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/mach1details2.uasset'
+[2023.06.16-11.58.37:337][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.58.39:678][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001046s (2.342819s overbudget)
+[2023.06.16-11.58.39:723][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/mach1display" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/mach1display.uasset" SILENT=true
+[2023.06.16-11.58.39:726][ 17]LogSavePackage: Moving output files for package: /Game/environment/mach1display
+[2023.06.16-11.58.39:726][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/mach1display8F8580BF49348510D5A66AA1D80F437D.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/mach1display.uasset'
+[2023.06.16-11.58.41:753][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.58.44:092][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005354s (2.340369s overbudget)
+[2023.06.16-11.58.44:141][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/button" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/button.uasset" SILENT=true
+[2023.06.16-11.58.44:145][ 17]LogSavePackage: Moving output files for package: /Game/environment/button
+[2023.06.16-11.58.44:145][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/buttonA1E628C44399FF1288445EA92C3000F0.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/button.uasset'
+[2023.06.16-11.58.46:175][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.58.48:526][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005066s (2.351686s overbudget)
+[2023.06.16-11.58.48:570][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/wire" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/wire.uasset" SILENT=true
+[2023.06.16-11.58.48:574][ 17]LogSavePackage: Moving output files for package: /Game/environment/wire
+[2023.06.16-11.58.48:574][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/wire7180F4204F1583D98BD67D92BE6E8BF5.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/wire.uasset'
+[2023.06.16-11.58.50:621][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.58.52:943][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000148s (2.327345s overbudget)
+[2023.06.16-11.58.52:987][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/but2" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/but2.uasset" SILENT=true
+[2023.06.16-11.58.52:989][ 17]LogSavePackage: Moving output files for package: /Game/environment/but2
+[2023.06.16-11.58.52:989][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/but26453F990485DED03AFBD6EA2AAA4B973.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/but2.uasset'
+[2023.06.16-11.58.55:019][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.58.57:355][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002068s (2.338382s overbudget)
+[2023.06.16-11.58.57:399][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/but3" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/but3.uasset" SILENT=true
+[2023.06.16-11.58.57:401][ 17]LogSavePackage: Moving output files for package: /Game/environment/but3
+[2023.06.16-11.58.57:401][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/but3065600334C6DFD1F516902B91AE8993A.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/but3.uasset'
+[2023.06.16-11.58.59:429][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.59.01:870][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005070s (2.441306s overbudget)
+[2023.06.16-11.59.01:911][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/but4" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/but4.uasset" SILENT=true
+[2023.06.16-11.59.01:914][ 17]LogSavePackage: Moving output files for package: /Game/environment/but4
+[2023.06.16-11.59.01:914][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/but48A00259841BB10A8F3D8739DE1B5F72B.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/but4.uasset'
+[2023.06.16-11.59.03:959][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.59.06:306][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001086s (2.352152s overbudget)
+[2023.06.16-11.59.06:349][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/wires" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/wires.uasset" SILENT=true
+[2023.06.16-11.59.06:351][ 17]LogSavePackage: Moving output files for package: /Game/environment/wires
+[2023.06.16-11.59.06:351][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/wires11988AF14D547CABC043E0A912F1D030.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/wires.uasset'
+[2023.06.16-11.59.08:383][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.06.16-11.59.10:718][ 17]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001088s (2.340501s overbudget)
+[2023.06.16-11.59.10:765][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/environment/display1" FILE="../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/display1.uasset" SILENT=true
+[2023.06.16-11.59.10:767][ 17]LogSavePackage: Moving output files for package: /Game/environment/display1
+[2023.06.16-11.59.10:767][ 17]LogSavePackage: Moving '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Saved/display188FCB8BB453A00FB142DE5A25EFED4A4.tmp' to '../../../../../../vyshka/арт-практика/JapanEnvironment/AINotArt/Content/environment/display1.uasset'
+[2023.06.16-11.59.10:774][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 1:03 min (total: 1:33 min)
+[2023.06.16-11.59.10:786][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/mach1base.mach1base
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/display1.display1
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/wires.wires
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/but4.but4
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/but3.but3
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/but2.but2
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/wire.wire
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/button.button
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/mach1display.mach1display
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/mach1details2.mach1details2
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/mach1detais.mach1detais
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/mach1details1.mach1details1
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/bulb.bulb
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/environment/partition.partition
+[2023.06.16-11.59.10:786][ 17]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/environment/GameMach1.GameMach1
