@@ -1119,3 +1119,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.16-14.30.59:713][527]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{159d4d2c-0496-492b-91fd-28315b3bb8b6}, Name=Ушки (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=43.26
 [2023.06.16-14.30.59:713][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2023.06.16-14.30.59:714][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.16-14.32.10:851][391]LogShaderCompilers: Display: ================================================
+[2023.06.16-14.32.10:851][391]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.16-14.32.10:851][391]LogShaderCompilers: Display: Total job queries 235, among them cache hits 63 (26.81%)
+[2023.06.16-14.32.10:851][391]LogShaderCompilers: Display: Tracking 172 distinct input hashes that result in 58 distinct outputs (33.72%)
+[2023.06.16-14.32.10:851][391]LogShaderCompilers: Display: RAM used: 1.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2023.06.16-14.32.10:851][391]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.16-14.32.10:851][391]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.16-14.32.10:852][391]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.16-14.32.10:852][391]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.16-14.32.10:852][391]LogShaderCompilers: Display: ================================================
